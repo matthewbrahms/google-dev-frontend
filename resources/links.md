@@ -1,7 +1,7 @@
 ## Links for Course Resources
 
-W3 HTML Validator \n
+W3 HTML Validator
 https://validator.w3.org/check
 
-Mozilla Developer Network \n
+Mozilla Developer Network
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
