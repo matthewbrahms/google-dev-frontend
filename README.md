@@ -1,4 +1,4 @@
-# Grow with Google Scholarship
+# Grow with Google Front-End Dev Scholarship
 _Hosted by Udacity_
 
 This is my personal code repository for this course, and is exclusively mine (including errors).
