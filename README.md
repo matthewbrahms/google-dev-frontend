@@ -1,7 +1,7 @@
 # Grow with Google Scholarship
 _Hosted by Udacity_
 
-#### This is my personal code repository for this course, and is exclusively mine (including errors).
+This is my personal code repository for this course, and is exclusively mine (including errors).
 
 ## 2018 Recipient - Cohort 1
 
