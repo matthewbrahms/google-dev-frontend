@@ -62,3 +62,8 @@
 ## JavaScript
 
 [Google JS Style Guide](https://google.github.io/styleguide/jsguide.html)
+
+
+## jQuery
+
+[jQuery Selector Documentation](http://api.jquery.com/category/selectors/)
